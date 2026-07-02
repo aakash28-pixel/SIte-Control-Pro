@@ -28,7 +28,7 @@ Designed to solve practical operational bottlenecks on active construction sites
 
 ## 📸 Application Screenshots
 
-Here is a visual overview of Guardian Shield's premium dark-themed UI and core functionalities:
+Here is a visual overview of Site Control Pro's premium dark-themed UI and core functionalities:
 
 <p align="center">
   <img src="Login Screen.png" width="220" alt="Dashboard">
