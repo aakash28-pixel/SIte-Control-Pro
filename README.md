@@ -24,3 +24,16 @@ Designed to solve practical operational bottlenecks on active construction sites
 
 ---
 *Developed by Aakash Ali — Solving real-world problems through AI-assisted software engineering.*
+
+
+## 📸 Application Screenshots
+
+Here is a visual overview of Guardian Shield's premium dark-themed UI and core functionalities:
+
+<p align="center">
+  <img src="Login Screen.png" width="220" alt="Dashboard">
+  <img src="Sign Up Screen.png" width="220" alt="Security Features">
+  <img src="Manager Screen.png" width="220" alt="App Permissions">
+  <img src="Admin Screen.png" width="220" alt="Game Firewall">
+  <img src="Site Detail Screen.png" width="220" alt="Game Firewall">
+</p>
